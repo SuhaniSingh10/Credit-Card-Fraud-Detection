@@ -19,6 +19,7 @@ The dataset used in this project is derived from real-world credit card transact
  - Logistic Regression
  -  Decision Trees
  - Random Forests
+   
    The models are evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure effective fraud detection.
 
    ## Results
@@ -28,5 +29,6 @@ The dataset used in this project is derived from real-world credit card transact
 - Recall: The ability of the model to find all relevant cases (fraudulent transactions).
 - F1 Score: The weighted average of precision and recall.
   Visualizations such as confusion matrices and ROC curves are also included to illustrate model performance.
+
 
   Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
